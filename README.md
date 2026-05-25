@@ -2,8 +2,6 @@
 
 Plataforma de Tecnologias Assistivas e Sustentáveis para Conectar Campo e Cidade.
 
-O foco central deste projeto é a Acessibilidade Digital e Arquitetônica para o Meio Rural e Urbano, desenvolvida de forma aberta (Open Source) para que qualquer pessoa possa replicar e adaptar as soluções.
-
 🛠️ Estrutura Prática do Projeto
 Para garantir uma plataforma organizada, o repositório será dividido em três pilares fundamentais:
 
